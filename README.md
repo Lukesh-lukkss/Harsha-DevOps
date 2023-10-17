@@ -3,7 +3,7 @@ we use this to know more on DevOps interview and best practices note
 ## How to Give a Breif Introduction about yourself 
 ## Interview Introduction:
 
-Good Morning/Evening I harsha Vardhan. 
+Good Morning/Evening I am harsha Vardhan. 
 
 I am DevOps Engineer with 4 years of working experience in devops implementation. I am currently working at scoiete generale as a DevOps Engineer in Chennai base location in a Hybrid Model. 
 I am looking for a job change to move Hyderabad as my family is settled there. (Optional)
