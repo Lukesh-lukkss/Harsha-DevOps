@@ -18,5 +18,6 @@ Parallelly I also support developers and qa teams on addressing the issues or fa
 * I also do logs clean up: activity for our azure virutal machines, which includes creating cronjobs to archive logs which are older than 30+ days and deleting them after 30 days.
 * I did azure resource cleanup activity of the ideal resources to reduce the cost to the organization, it invovles identifying the ideal resources over 30+ days period of time and communicating with Devlopers and Testing team to check if they still want it and then destroying them through terraform and azure pipelines.
 
-
+# TODO : stick to the above intro
+# we need to pick each tool and prepare for the IMP [topics/questions]
 
