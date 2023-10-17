@@ -1,7 +1,7 @@
 # Harsha-DevOps
 we use this to know more on DevOps interview and best practices note 
 ## How to Give a Breif Introduction about yourself 
-## Interview Introduction:
+### Interview Introduction:
 
 Good Morning/Evening I am harsha Vardhan. 
 
@@ -14,10 +14,10 @@ I have been working on technologies such as Jenkins, Git, Docker, K8S, Azure Pip
 Currently we are using azure cloud to host our infrastructure for our project and we have adapted azure DevOps services for our Continuous Integration and Continuous Deployment process. My daily activites would be creating CI/CD pipelines to automate the interagion of the source and build it, package it, and run tests and then deploy the applications into multiple environments such as Develop, test, stage and production. I also find different ways to transform and improve the existing pipeline into an automated process by using various tools scripts from a manual process. I have created different pipelines for multiple projects and also for multiple application stack such as java, nodesjs, dotnet applications. I have provisioned multiple environments and projects by using Infra structure as code (IAC) Terraform. 
 Parallelly I also support developers and qa teams on addressing the issues or failure in the application level, pipeline failures infra failures by troubleshooting and identifying the root cause of the issue and then fixing it. I also perform monthly production Release which includes Building, tagging, deploying, and rolling back code and configuration changes for our web applications using YAML Azure pipelines and These are my data to day activities.  
 
-## Optional:
+### Optional:
 * I also do logs clean up: activity for our azure virutal machines, which includes creating cronjobs to archive logs which are older than 30+ days and deleting them after 30 days.
 * I did azure resource cleanup activity of the ideal resources to reduce the cost to the organization, it invovles identifying the ideal resources over 30+ days period of time and communicating with Devlopers and Testing team to check if they still want it and then destroying them through terraform and azure pipelines.
 
-# TODO : stick to the above intro
-# we need to pick each tool and prepare for the IMP [topics/questions]
+### TODO : stick to the above intro
+### TODO:  we need to pick each tool and prepare for the IMP [topics/questions]
 
