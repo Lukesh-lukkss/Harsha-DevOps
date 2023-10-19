@@ -20,11 +20,11 @@ Parallelly I also support developers and qa teams on addressing the issues or fa
 
 ### TODO : stick to the above intro
 ### TODO:  we need to pick each tool and prepare for the IMP [topics/questions]
-Jenkins : Jenkins pipelines examples, git clone build, test
-Terraform : terrforms scripts, Modules 
-Azure pipelines : pipelines examples, git clone build, test
-Ansible : Playbook : execution roles, handlers, hosts 
-Networking : 
-Bash scripts / Powershell Scripts 
-Docker and K8S
+1. Jenkins : Jenkins pipelines examples, git clone build, test
+2. Terraform : terrforms scripts, Modules 
+3. Azure pipelines : pipelines examples, git clone build, test
+4. Ansible : Playbook : execution roles, handlers, hosts 
+5. Networking : 
+6. Bash scripts / Powershell Scripts 
+7. Docker and K8S
 
