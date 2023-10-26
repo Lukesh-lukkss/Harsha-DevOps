@@ -8,7 +8,7 @@ Good Morning/Evening I am harsha Vardhan.
 I am a DevOps Engineer with 4 years of working experience in devops implementation. I am currently working at scoiete generale as a DevOps Engineer in Chennai base location in a Hybrid Model. 
 I am currently looking for a job change to move Hyderabad as my family is settled over there. (Optional)
 
-DevOps specialist with 4 years expertise in CI/CD, Build and Release engineering, and Cloud infrastructure provisioning. I am currently working at **Société Générale** is a French multinational banking and financial services company, one of the largest in Europe. It operates in retail banking, corporate and investment banking, and global financial services.
+DevOps specialist with 4 years expertise in CI/CD, Build and Release engineering, Monthly Code Cut & Production Release activites like ZDT and No-ZDT and Cloud infrastructure provisioning. I am currently working at **Société Générale** is a French multinational banking and financial services company, one of the largest in Europe. It operates in retail banking, corporate and investment banking, and global financial services.
 It has a Bussiness Unit named ** [Payment Solutions] ** which contains the multiple product Teams and I am part of the Platform Automation Team which is DevOps Team that is responsibile in CI/CD, Build and Release Engineering Activites.
 Transforming and enhancing the application development and deployment process into an automated one from a manual deployment process. 
 I have been working on technologies such as **Jenkins, Git, Docker, K8S, Azure DevOps and Pipelines, Azure cloud, Terraform, powershell scripting**
