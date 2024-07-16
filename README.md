@@ -32,3 +32,15 @@ Parallelly I also support developers and qa teams on addressing the issues or fa
 6. Bash scripts / Powershell Scripts 
 7. Docker and K8S
 
+
+### Interview Prep : DevOps Engineer
+Hi Everyone/someone Good Evening  mysleft Lukesh. 
+I am DevOps Engineer, I am carry 5 years of working experience with DepOps Implentations and Practises.
+currently I am working Deloitte as a Azure DevOps Consultant under Cloud Engineering Business Line.
+ 
+Through out my Career I have been working on Implementing/Creation/Building Continuous Integration and Continuous Deployment pipelines and workflows for the Product Team.
+Spinning and Provisioning Infrastructure for the applications and I have managed Montly Code Cut activites and production deployment activites.
+I worked on Adressing Issue, TroubleShooting the Infra or application issues pipeline errors.
+I have also worked on enabling new tools as per the project demands by researching and configuring them to current workflows.
+so the tools that I have worked on are Azure DevOps, Terragrunt and Terraform, Azure Cloud, Powershell scripting, Jenkins, Ansible, Docker and K8S, Git.
+
