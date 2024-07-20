@@ -44,3 +44,21 @@ I worked on Adressing Issue, TroubleShooting the Infra or application issues pip
 I have also worked on enabling new tools as per the project demands by researching and configuring them to current workflows.
 so the tools that I have worked on are Azure DevOps, Terragrunt and Terraform, Azure Cloud, Powershell scripting, Jenkins, Ansible, Docker and K8S, Git.
 
+Hello everyone,
+My name is Lukesh, and I'm a seasoned DevOps Engineer with 5 years of experience in implementing and practicing DevOps principles. Currently, I'm working at Deloitte as an Azure DevOps Consultant under the Cloud Engineering Business Line.
+Throughout my career, I've focused on:
+Designing and building Continuous Integration and Continuous Deployment pipelines and workflows for product teams
+Provisioning and managing infrastructure for applications
+Leading monthly code cut and production deployment activities
+Troubleshooting infrastructure and application issues, as well as pipeline errors
+Integrating new tools into existing workflows, including research and configuration
+My technical expertise includes:
+Azure DevOps
+Terragrunt and Terraform
+Azure Cloud
+PowerShell scripting
+Jenkins
+Ansible
+Docker and Kubernetes (K8S)
+Git
+
