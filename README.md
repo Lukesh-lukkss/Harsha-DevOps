@@ -52,6 +52,7 @@ Provisioning and managing infrastructure for applications
 Leading monthly code cut and production deployment activities
 Troubleshooting infrastructure and application issues, as well as pipeline errors
 Integrating new tools into existing workflows, including research and configuration
+Finding ways to enhance the current CI/CD process and try to automate the gaps between as munch as possible
 My technical expertise includes:
 Azure DevOps
 Terragrunt and Terraform
