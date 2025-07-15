@@ -1,3 +1,14 @@
+SwissRe DevOps Lead Intro:
+
+Hi everyone, good evening. My name is Lukesh, and I’m currently working as a DevOps Consultant at Deloitte under the Cloud Engineering business line. I bring 6 years of hands-on experience in implementing DevOps practices and solutions.
+
+Throughout my career, I’ve led the design and implementation of CI/CD pipelines, provisioned infrastructure using tools like Terraform and Terragrunt, and managed end-to-end deployment workflows across multiple environments. I’ve also handled monthly code cutovers and production deployments, ensuring minimal downtime and smooth releases.
+
+In my current role, I’ve led a team of 4 DevOps engineers, mentoring them and driving continuous improvements in our DevOps processes. I’ve worked extensively with Azure DevOps, Azure Cloud, Jenkins, Ansible, Docker, Kubernetes, Git, and PowerShell scripting. I also take initiative in researching and integrating new tools to enhance our workflows and automate as much of the development and deployment lifecycle as possible.
+
+I’m passionate about building scalable, efficient DevOps solutions and continuously improving infrastructure and delivery pipelines.
+
+
 Introduction:
 
 Hi everyone/someone Good Evening myself Lukesh. I am DevOps Engineer; I am carrying 6 years of working experience with DevOps Implementation and Practices. currently I am working Deloitte as an Azure DevOps Consultant under Cloud Engineering Business Line.
