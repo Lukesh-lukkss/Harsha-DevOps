@@ -5,8 +5,7 @@ I’m currently working as an workstream lead Container Platform Engineer under 
 
 About my Experience Throughout my Career I have been working on Implementing/Creation/Building Continuous Integration and Continuous Deployment pipelines and workflows for the Product Team with various techonoligies for various application stacks. 
 
-Infrastructure Provisioning for the multiple product teams to host applications and their environments for multi-tier architecture
-using Terraform & Terragrunt, developed terraform private modules, maintained them.
+ Provisioning for multi-tier architecture Infrastructure for multiple product teams to host applications and their environments using Terraform & Terragrunt, developed terraform private modules, maintained them.
 
 Orchestrating Multi-Kubernentes-Cluster Environments, Cluster Provisioning and managing  the Rancher Manager (Upstream) cluster,  Provisioning and managing Downstream clusters across various environments (which incldues both AKS and bare--metal installation).
 I have developed custom RBAC tempalate to modify the permission based on the project requirements. 
