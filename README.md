@@ -6,8 +6,9 @@ My Core Expertise Includes:
 
 CI/CD & Pipeline Orchestration: Throughout my career, I’ve designed various CI/CD workflows for various application stacks using various CI tools.  building pipelines for deployments across both lower and higher environments.
 
-⁠Infrastructure as Code (IaC): I have experience in provisioning multi-tier environments using Terraform and Terragrunt. I’ve developed and maintained private Terraform modules hosted in the HashiCorp Private Registry for azure cloud rprovider resources (like azure webapps, functionapps, keyvaults, cosmos database, api managemnt services etc)
-⁠
+⁠Infrastructure as Code (IaC): I have experience in provisioning multi-tier environments using Terraform and Terragrunt. I’ve developed and maintained private Terraform modules hosted in the HashiCorp Private Registry for azure cloud rprovider resources (like azure webapps, functionapps, keyvaults, cosmos database, api managemnt services etc).
+
+
 Rancher & Kubernetes Orchestration: managing Kubernetes ecosystems. which includes managing the Upstream Rancher Manager cluster and provisioning Downstream clusters across AKS and Bare-Metal environments. Importing/Migration the existing on-prem kubernentes clusters into Rancher Platform. I developed custom RBAC templates  for various teams for project speicifc namespace access for users, and also designed Project Resource Quotas and Namespace Default Limits.
 
 
