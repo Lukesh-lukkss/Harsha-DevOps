@@ -3,9 +3,9 @@ I am a DevOps Engineer, I carry around 7 years expireine in implementing DevOps 
 
 I’m currently working as an workstream lead Container Platform Engineer under Container Platform Team at Deloitte under the Cloud Engineering business line. 
 
-About my Experience Throughout my Career I have been working on Implementing/Creation/Building Continuous Integration and Continuous Deployment pipelines and workflows for the Product Team with various techonoligies for various application stacks. 
+About my Experience Throughout my Career I have been working on Implementing/Creation/Building Continuous Integration and Continuous Deployment pipelines and workflows for the Product Team with various techonoligies for various application stacks to build and deploy the applications in both Higher and Lower Environments.
 
- Provisioning for multi-tier architecture Infrastructure for multiple product teams to host applications and their environments using Terraform & Terragrunt, developed terraform private modules, maintained them.
+ Provisioning Infrastructure for multi-tier Environments  for multiple product teams to host applications and their environments using Terraform & Terragrunt, developed terraform private modules, maintained them in the hashicorp private registiry.
 
 Orchestrating Multi-Kubernentes-Cluster Environments, Cluster Provisioning and managing  the Rancher Manager (Upstream) cluster,  Provisioning and managing Downstream clusters across various environments (which incldues both AKS and bare--metal installation).
 I have developed custom RBAC tempalate to modify the permission based on the project requirements. 
