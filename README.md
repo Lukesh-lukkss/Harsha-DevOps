@@ -1,3 +1,34 @@
+Hi everyone, good evening. Myself is Lukesh,
+I am a DevOps Engineer, I carry around 7 years expireine in implementing DevOps practices and solutions.
+
+I’m currently working as an workstream lead Container Platform Engineer under Container Platform Team at Deloitte under the Cloud Engineering business line. 
+
+Throughout my Career I have been working on Implementing/Creation/Building Continuous Integration and Continuous Deployment pipelines and workflows for the Product Team with various techonoligies for various application stacks. 
+
+Infrastructure Provisioning for the multiple product teams to host applications and their environments for multi-tier architecture
+using Terraform & Terragrunt, developed terraform private modules, maintained them.
+
+Orchestrating Multi-Kubernentes-Cluster Environments, Cluster Provisioning and managing  the Rancher Manager (Upstream) cluster,  Provisioning and managing Downstream clusters across various environments (which incldues both AKS and bare--metal installation).
+I have developed custom RBAC tempalate to modify the permission based on the project requirements. 
+Designing the Project Resource Quotas and Namespace Default Limits to prevent resource exhaustion and manage "noisy neighbor" effects across the fleet.
+
+conigured the Continous Deployment to these donwstream clusters using the SUSE Fleet,  managing "GitOps" to synchronize deployments across multiiple downstream clusters simultaneously.
+
+
+
+I have managed Monthly Code Cut activities and production deployment activities. 
+
+
+Troubleshooting the Infra or application issues pipeline errors. 
+I have also worked on enabling new tools as per the project demands by researching and configuring them to current workflows. 
+Finding ways to imrove and enhance the existing architecture and autiomating the application development & Deployment as much as possible.
+
+so, the tools that I have worked on are Azure DevOps, Terragrunt and Terraform, Kubernentes, Rancher, Fleet-Ops, Azure Cloud, PowerShell scripting, in past I have worked on Jenkins, Ansible, Chef, Docker, APM tools such as Dyntrance as my Latest and greatest tool. (will talk about the docker azure container private registries to host docker images, developed ansible playbooks basically role to install the Dynatrace machine agents on the cnetos machines as well)
+
+I am passionate in working in a fast peaced agile environment. 
+
+
+
 SwissRe DevOps Lead Intro:
 
 Hi everyone, good evening. My name is Lukesh, and I’m currently working as a DevOps Consultant at Deloitte under the Cloud Engineering business line. I bring 6 years of hands-on experience in implementing DevOps practices and solutions.
