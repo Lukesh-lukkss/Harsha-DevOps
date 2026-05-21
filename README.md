@@ -13,7 +13,11 @@ Rancher & Kubernetes Orchestration: managing Kubernetes ecosystems. which includ
 
 
 ⁠GitOps with SUSE Fleet: Enabling the Continous Delivery for multiple clusters like dev, test, qa, non-prod, prod using SUSE Fleet with GitOps,, deploying/synchronizing deployments across multiple downstream clusters simultaneously to ensure configuration consistency.
-⁠Operational Tasks: I manage Monthly Code Cut and production deployment activities. also in troubleshooting infrastructure bottlenecks, pipeline failures
+
+⁠Operational Tasks: I manage Monthly Code Cut and production deployment activities. also in troubleshooting infrastructure bottlenecks, pipeline failures.
+I work closely with Developtment Teams and QA teams in troubleshooting and identifying issues encournted in their envionrments.
+I work closely with Solution Architects and Product Owners in terms of Architectural and Desigining Infrastucture descisions while onboarding new producs/applications.
+Additionally I aslo do research and developemnt POC's (proof of concepts) I have integrated new Tools/Technolgoies migrated from one platform to another. 
 
 Technical Stack:
 My primary tools inculde Azure DevOps, Terragrunt, Terraform, Kubernetes (AKS/RKE2), Rancher, and Fleet, Azure Cloud., PowerShell, and I my past I have worked with Jenkins, Ansible, Chef, and Docker. For observability, I’ve utilized Dynatrace, where I notably developed Ansible roles to automate the deployment of machine agents on CentOS.
