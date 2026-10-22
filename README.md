@@ -32,6 +32,9 @@ In my current project, I'm part of the Container Platform team, where we manage 
 Before this, I worked as an Azure DevOps Lead on the Exelon Digital project, supporting more than 20 Angular and .NET applications. I developed reusable Azure DevOps YAML pipeline templates, custom Terraform modules published to a private registry, and automated infrastructure provisioning across multiple environments using Terraform and Terragrunt.
  
 I also managed production releases, implemented zero-downtime deployment strategies using Azure App Service deployment slots, handled Azure DevOps administration, and worked on application monitoring using Dynatrace.
+
+I also work with Product Owners, Solution Architects for architectural descisons while onboarding new application/projects into the platform. 
+I work closely with QA and Developement teams in addressing and troubleshooting issues helping them out.
  
 Earlier in my career, I worked extensively with Jenkins, Ansible, Chef, PowerShell, and artifact management.
 Tools that I have worked: GitHub Actions, Azure DevOps, Terraform etc
