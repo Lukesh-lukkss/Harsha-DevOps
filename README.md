@@ -34,5 +34,6 @@ Before this, I worked as an Azure DevOps Lead on the Exelon Digital project, sup
 I also managed production releases, implemented zero-downtime deployment strategies using Azure App Service deployment slots, handled Azure DevOps administration, and worked on application monitoring using Dynatrace.
  
 Earlier in my career, I worked extensively with Jenkins, Ansible, Chef, PowerShell, and artifact management.
+Tools that I have worked: GitHub Actions, Azure DevOps, Terraform etc
  
 My primary strengths are CI/CD architecture, infrastructure automation, Kubernetes platform engineering, production reliability, and troubleshooting.
